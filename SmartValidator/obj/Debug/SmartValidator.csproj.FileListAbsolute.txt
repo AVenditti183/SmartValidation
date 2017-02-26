@@ -1,0 +1,5 @@
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator\bin\Debug\SmartValidator.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator\bin\Debug\SmartValidator.pdb
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator\obj\Debug\SmartValidator.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator\obj\Debug\SmartValidator.pdb
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator\obj\Debug\SmartValidator.csprojResolveAssemblyReference.cache

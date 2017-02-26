@@ -1,0 +1,9 @@
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\obj\Debug\SmartValidator_Test.csprojResolveAssemblyReference.cache
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\SmartValidator_Test.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\SmartValidator_Test.pdb
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\SmartValidator.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\SmartValidator.pdb
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\obj\Debug\SmartValidator_Test.dll
+C:\Users\anton\OneDrive\App\SmartValidator\SmartValidator_Test\obj\Debug\SmartValidator_Test.pdb
